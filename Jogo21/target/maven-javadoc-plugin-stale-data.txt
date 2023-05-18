@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/LENOVO/Documents/NetBeansProjects/UniversidadeExemplo/Jogo21/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/LENOVO/Documents/NetBeansProjects/UniversidadeExemplo/Jogo21/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Jogo21 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Jogo21 1.0-SNAPSHOT API'
+com.mycompany.jogo21.base
+com.mycompany.jogo21.io
+com.mycompany.jogo21
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\src\main\java = 1681922848132
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\allclasses-index.html = 1683510320709
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\allpackages-index.html = 1683510320713
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\copy.svg = 1683510320763
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\element-list = 1683510320594
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\help-doc.html = 1683510320755
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\index-all.html = 1683510320742
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\index.html = 1683510320691
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\jquery-ui.overrides.css = 1683510320787
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\member-search-index.js = 1683510320719
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\module-search-index.js = 1683510320714
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\overview-summary.html = 1683510320748
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\overview-tree.html = 1683510320682
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\package-search-index.js = 1683510320716
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\script.js = 1683510320761
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\search-page.js = 1683510320770
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\search.html = 1683510320745
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\search.js = 1683510320767
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\stylesheet.css = 1683510320758
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\tag-search-index.js = 1683510320721
+C:\Users\LENOVO\Documents\NetBeansProjects\UniversidadeExemplo\Jogo21\target\site\apidocs\type-search-index.js = 1683510320717

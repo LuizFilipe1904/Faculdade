@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.jogo21.base","l":"Baralho"},{"p":"com.mycompany.jogo21.base","l":"Carta"},{"p":"com.mycompany.jogo21.io","l":"IO"},{"p":"com.mycompany.jogo21.base","l":"Jogador"},{"p":"com.mycompany.jogo21","l":"Jogo21"}];updateSearchResults();
